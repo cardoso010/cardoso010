@@ -7,8 +7,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@gcardoso010)](https://twitter.com/@gcardoso010)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-cardoso-luiz/)](https://www.linkedin.com/in/gabriel-cardoso-luiz/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardoso010&theme=dark&show_icons=true)](https://github.com/cardoso010/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cardoso010&theme=dark&show_icons=true)](https://github.com/cardoso010/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardoso010&theme=dark&show_icons=true)](https://github.com/cardoso010/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cardoso010&theme=dark&show_icons=true)](https://github.com/cardoso010/github-readme-stats) -->
 
 
 <!--
